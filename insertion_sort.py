@@ -1,5 +1,5 @@
 '''
-Algorithms from Khan Academy - insertion sort
+Algorithms from Khan Academy
 https://www.khanacademy.org/computing/computer-science/algorithms
 
 Last Updated: 2016-May-11
